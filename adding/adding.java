@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; //package
 class AddNumbers
 {
    public static void main(String args[]) //main_function
