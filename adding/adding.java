@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class AddNumbers
 {
-   public static void main(String args[])
+   public static void main(String args[]) //main_function
    {
       int x, y, z;
 
