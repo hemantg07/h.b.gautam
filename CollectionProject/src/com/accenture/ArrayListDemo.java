@@ -1,4 +1,4 @@
-package com.accenture;
+package com.accenture; // predefined_package
 
 import java.util.ArrayList;
 import java.util.Iterator;
